@@ -8,7 +8,7 @@
 const i18nTable = {
   'zh-cn': {
     'title': '敬告',
-    'text': '由于CoT游戏原作者不支持，且英文社区排斥mod以及汉化。故，请不要在Discard上的英文服务器反馈或发布有关mod或汉化的任何内容',
+    'text': '由于CoT游戏原作者不支持，且英文社区排斥mod以及汉化。故，请不要在Discord上的英文服务器反馈或发布有关mod或汉化的任何内容',
   },
   'en': {
     'title': 'Official Notice',
